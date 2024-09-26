@@ -15,3 +15,4 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 * [Dalvin Heyninck](./people/dalvin.heyninck.md)
+* [Daniel Gouzenko](.people/daniel_gouzenko.md)
