@@ -16,5 +16,5 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Dalvin Heyninck](./people/dalvin.heyninck.md)
 * [Daniel Gouzenko](./people/daniel_gouzenko.md)
-* [Metin Sabunci](./people/Metin_Sabunci.md)
+* [Metin Sabunci](./people/metin_sabunci.md)
 
