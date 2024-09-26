@@ -13,3 +13,6 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Sam Serrien](./people/sam_serrien.md)
 
 ## Students
+
+* [Dalvin Heyninck](./people/dalvin.heyninck.md)
+* [Daniel Gouzenko](./people/daniel_gouzenko.md)
