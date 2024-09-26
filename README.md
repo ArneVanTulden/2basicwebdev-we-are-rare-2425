@@ -15,3 +15,5 @@ See: [Contributing](./CONTRIBUTING.md)
 ## Students
 
 * [Oliver Dudek](./people/oliver_dudek.md)
+* [Dalvin Heyninck](./people/dalvin.heyninck.md)
+* [Daniel Gouzenko](./people/daniel_gouzenko.md)
