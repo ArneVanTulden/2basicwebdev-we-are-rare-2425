@@ -16,3 +16,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 * [Dalvin Heyninck](./people/dalvin.heyninck.md)
 * [Daniel Gouzenko](./people/daniel_gouzenko.md)
+* [Jelle Schokkaert](./people/jelle.schokkaert.md)
