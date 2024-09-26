@@ -14,4 +14,4 @@ See: [Contributing](./CONTRIBUTING.md)
 
 ## Students
 
-* [Oliver Dudek](.people/oliver_dudek.md)
+* [Oliver Dudek](./people/oliver_dudek.md)
