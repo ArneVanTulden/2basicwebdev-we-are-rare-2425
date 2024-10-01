@@ -1,8 +1,8 @@
 # Joren Van Borm
-- last year 3D VFX artist
+- final year 3D VFX artist (also has developer experience)
 - lover of board- roleplaying- and videogames
 - prefers hiking over city trips
 - folder (but not usually designer) of lots of origami
 
-"Fait que ton rêve soit plus longue que la nuit"
+_"Fait que ton rêve soit plus longue que la nuit"_
 -- title of a Vangelis album
