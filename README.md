@@ -20,4 +20,5 @@ See: [Contributing](./CONTRIBUTING.md)
 * [Jelle Schokkaert](./people/jelle.schokkaert.md)
 * [Metin Sabunci](./people/Metin_Sabunci.md)
 * [Ewoud Ooms](./people/ewoud_ooms.md)
-
+* [Thibault Soumoy](./people/thibault_soumoy.md)
+* [Ralf Hofman](./people/Ralf_Hofman.md)
